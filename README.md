@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pintu Kumar Sah</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A youth journeying through the intricate puzzle of life's existence!</h3>
+
+"I am currently exploring the domains of data science and machine learning, fueled by a strong desire to utilize my expertise in addressing real-world issues. Possessing a B.Tech in Computer Science with a focus on Artificial Intelligence and Machine Learning, my educational voyage has endowed me with a solid foundation in statistics, programming, and proficient problem-solving skills."
 
 "![image](https://github.com/Pintu1802/Pintu1802/assets/126938670/ca77261e-c513-48c2-8bdf-94ba78c616b6)
 ‪
