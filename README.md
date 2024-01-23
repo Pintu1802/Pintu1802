@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pintu Kumar Sah</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
-<img align="right" alt="coading"width="400" src="‪![image](https://github.com/Pintu1802/Pintu1802/assets/126938670/c0e175ff-d6d5-4d80-81f6-4dec45f837ee).gif">
-.gif">
+"![image](https://github.com/Pintu1802/Pintu1802/assets/126938670/ca77261e-c513-48c2-8bdf-94ba78c616b6)
+‪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintu1802&label=Profile%20views&color=0e75b6&style=flat" alt="pintu1802" /> </p>
 
